@@ -1,11 +1,11 @@
-# Intel®️-oneAPI
+# Intel®-oneAPI
 
 #### Team Name - Alpha Tribe
 #### Problem Statement - Open Innovation in Education
 #### Team Leader Email - subhajitmajiofficial@gmail.com
 
 ## A Brief of the Prototype:
-  Fractal equations are complex but beautiful to watch and explore when plotted on a 3d graph by creating plotting points numerous iterations.
+  Fractal equations are complex but beautiful to watch and explore when plotted on a 3d graph by creating plotting points through numerous iterations.
   That's what we explored in this project. We computed and plotted various fractal equations using a series of libraries and Intel®️ OneAPI Toolkit to optimize the process.
   
 ## Tech Stack: 
