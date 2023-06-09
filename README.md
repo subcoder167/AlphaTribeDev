@@ -8,6 +8,8 @@
   Fractal equations are complex but beautiful to watch and explore when plotted on a 3d graph by creating plotting points through numerous iterations.
   That's what we explored in this project. We computed and plotted various fractal equations using a series of libraries and Intel® OneAPI Toolkit to optimize the process.
   
+  You can learn about the project in details from my medium blog - https://medium.com/@subhajitmajiofficial/intel-oneapi-hackathon-submission-40543e01d6b6.
+  
 ## Tech Stack: 
    1. NUMPY
    2. PLOTLY
